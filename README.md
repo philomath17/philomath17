@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aakanksha
-- 👀 I’m interested in Databases
-- 🌱 I’m currently learning SQL/PYTHON
-- 💞️ I’m looking to collaborate on FRONT & BACK-END
-- 📫 How to reach me - linkedin
+- 👀 Databases, Full-Stack Development
+- 🌱 I’m currently learning SQL & Python
+- 💞️ I’m looking to collaborate on Front-end & Back-end Projects
+- 📫 Let's Connect - linkedin (www.linkedin.com/in/aakanksha-datascience)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am transitioning from a Healthcare industry to IT sector
 
